@@ -10,6 +10,3 @@ https://store.arduino.cc/products/arduino-tiny-machine-learning-kit
 # References and other materials
 https://www.kaggle.com/code/paultimothymooney/interpret-sign-language-with-deep-learning/notebook
 https://www.edx.org/certificates/professional-certificate/harvardx-tiny-machine-learning
-
-# TODO
-* requirement.py for tools and scripts
